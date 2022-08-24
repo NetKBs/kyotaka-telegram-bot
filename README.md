@@ -1,9 +1,14 @@
-# kyotaka-telegram-bot (not hosted yet)
+# kyotaka-telegram-bot (Canceled)
 
 ## Attention
 
-This is a self-developed project made while I was doing #100DaysOfCode on twitter. This **doesn't generate profits** for me. If you have a complaint, please contact me.  
+This is a self-developed project.
 
+### Canceled
+Welp this was a failed project that I never hosted but in local everything went well(? I guess, however I learned several things. 
+If you find something useful here in this ugly code, then I'm glad for you :)
+
+<br><br>
 ---  
 
 ## Then what is this?
